@@ -1,4 +1,9 @@
-<h1 align="center"> <em>FUSER</em>: Feed-Forward MUltiview 3D Registration Transformer and SE(3)<sup>N</sup> Diffusion Refinement</h1>
+<h1 align="center">
+  <em style="color: rgb(166,35,35);">FUSER</em>:
+  <span style="color: rgb(166,35,35);">F</span>eed-Forward
+  M<span style="color: rgb(166,35,35);">U</span>ltiview 3D Registration Transformer and
+  <span style="color: rgb(166,35,35);">SE</span>(3)<sup>N</sup> Diffusion <span style="color: rgb(166,35,35);">R</span>efinement
+</h1>
 
 <div align="center">
     <p>
