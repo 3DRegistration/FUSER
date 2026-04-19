@@ -105,6 +105,20 @@ python run_benchmark.py --model_name FUSER_DF --benchmark_name 3DMatchFrame --pr
 python run_benchmark.py --model_name FUSER_DF --benchmark_name ArkitScenes --prior_checkpoint ../ckpts/fuser.safetensors --surrogate_checkpoint ../ckpts/fuser_df.safetensors
 ```
 
+
+## 📄 License
+
+This project adopts a dual-licensing strategy:
+
+| Component | License | Commercial Use |
+| --- | --- | --- |
+| Source code in this repository, except files that carry their own third-party license notices | [BSD 3-Clause](LICENSE) | Permitted |
+| Pretrained model weights and checkpoints for FUSER / FUSER-DF | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | Not permitted |
+
+Notes:
+- The source code license does not apply to pretrained weights or checkpoints.
+- Some third-party source files in this repository retain their original license headers and are not relicensed by this repository.
+
 ## 📜 Citation
 
 If you find this repository useful, please cite:
@@ -124,3 +138,5 @@ This project builds on the broader 3D vision ecosystem, particularly sparse 3D c
   * [MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
   * [Pi3](https://github.com/yyfz/Pi3)
   * [VGGT](https://github.com/facebookresearch/vggt)
+
+If you have any questions or run into any issues, feel free to open an issue or reach out to me at **haobo.jiang@ntu.edu.sg**.
