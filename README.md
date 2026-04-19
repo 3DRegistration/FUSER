@@ -88,7 +88,7 @@ python demo_gradio.py
 
 ### 1. Data Preparation
 
-Please download the benchmark datasets of [ScanNet, 3DMatchFrame, and ArkitScenes](), and place them in [`benchmarks/datasets/data`](https://github.com/Jiang-HB/FUSER/benchmarks/datasets/data) folder.
+Please download the benchmark datasets of [ScanNet, 3DMatchFrame, and ArkitScenes](https://drive.google.com/file/d/1PAQuVtldMtph3A8QYZXzKeOKuY9tc9fY/view?usp=sharing), and place them in [`benchmarks/datasets/data`](https://github.com/Jiang-HB/FUSER/benchmarks/datasets/data) folder.
 
 ### 2. Run Evaluation
 ```bash
