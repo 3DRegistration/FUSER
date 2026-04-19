@@ -1,0 +1,79 @@
+FUSER License
+Copyright (c) 2025, the authors
+All rights reserved.
+
+This repository contains source code and pretrained model weights.
+They are licensed differently as described below.
+
+Some files may include third-party code or other materials that retain their
+own original license notices. Those third-party notices take precedence for the
+corresponding files or materials.
+
+========================================================================
+1. Source Code License
+========================================================================
+
+Unless otherwise stated in a file header or third-party notice, the source code
+and other repository materials authored for this project are licensed under the
+BSD 3-Clause License:
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+========================================================================
+2. Model Weights License
+========================================================================
+
+This section applies only to pretrained model weights, checkpoints, and other
+learned parameters released by the authors for FUSER and FUSER-DF, whether
+distributed in this repository or via official external download links.
+
+These model weights are made available under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You may:
+- Share: copy and redistribute the weights in any medium or format.
+- Adapt: transform and build upon the weights.
+
+Under the following terms:
+- Attribution: you must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+- NonCommercial: you may not use the weights for commercial purposes.
+- No additional restrictions: you may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license
+  permits.
+
+For the full legal code of CC BY-NC 4.0, see:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+For a human-readable summary, see:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Redistributions of the model weights or checkpoints must preserve this notice
+and the above license references.
+
+To the extent permitted by applicable law, the model weights are provided
+"as is", without warranties or conditions of any kind, whether express
+or implied.
