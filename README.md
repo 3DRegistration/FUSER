@@ -55,6 +55,11 @@
 
 Built on top of FUSER, **FUSER-DF** further introduces an **SE(3)<sup>N</sup> diffusion-based refinement** process. Starting from FUSER-predicted pose priors and leveraging FUSER as a surrogate multiview registration model, it progressively denoises the poses for more accurate multiview registration.
 
+<div align="center">
+    <a href="[PROJECT_PAGE_LINK_HERE]">
+        <img src="assets/teaser.jpg" width="100%">
+    </a>
+</div>
 
 ## 🚀 Quick Start
 
