@@ -61,6 +61,23 @@ Built on top of FUSER, **FUSER-DF** further introduces an **SE(3)<sup>N</sup> di
     </a>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="75%">
+<img src="assets/demo.gif" width="100%">
+<br>
+<!-- <em>Feed-forward multiview pose prediction by FUSER.</em> -->
+</td>
+<td align="center" width="25%">
+<img src="assets/inthewild.gif" width="100%">
+<br>
+<!-- <em>SE(3)<sup>N</sup> diffusion refinement by FUSER-DF.</em> -->
+</td>
+</tr>
+</table>
+</div>
+
 ## 🚀 Quick Start
 
 ### 1. Clone & Install Dependencies
