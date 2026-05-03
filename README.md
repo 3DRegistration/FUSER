@@ -45,7 +45,8 @@
 [//]: # ()
 [//]: # (* **[April 18, 2026]** 🚀 Inference code and checkpoints for both FUSER and FUSER-DF are now available!)
 
-
+* **[May 3, 2026]** 📈 Benchmark code and datasets for reproducing our multiview pose estimation results on ScanNet, 3DMatch, and ARKitScenes are now available. See the [`benchmarks`](https://github.com/Jiang-HB/FUSER) branch for details.
+* **[May 3, 2026]** 🚀 Inference code and checkpoints for both FUSER and FUSER-DF are now available!
 * **[April 9, 2026]** ⭐ FUSER has been accepted at **CVPR 2026** as an **oral presentation**!
 
 
