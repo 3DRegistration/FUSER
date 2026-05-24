@@ -1,0 +1,9 @@
+easydict==1.13
+matplotlib==3.10.8
+# MinkowskiEngine==0.5.4
+numpy==2.4.4
+open3d
+plyfile==1.1.3
+safetensors==0.7.0
+scipy
+tqdm==4.67.1

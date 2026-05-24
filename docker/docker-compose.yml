@@ -1,0 +1,32 @@
+services:
+  fuser:
+    image: eachan10/fuser:latest
+    shm_size: 64g
+    container_name: fuser
+    stdin_open: true
+    tty: true
+    volumes:
+      - type: bind
+        source: /home/ntu/yichen/FUSER
+        target: /home/user/FUSER
+      - type: bind
+        source: /home/ntu/yichen/datasets
+        target: /home/user/Datasets
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    environment:
+      - DISPLAY=$DISPLAY
+      - QT_X11_NO_MITSHM=1
+      - XDG_RUNTIME_DIR=$XDG_RUNTIME_DIR
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
+    # runtime: nvidia
+    network_mode: host
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
+    command: zsh
+
+
